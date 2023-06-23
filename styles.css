@@ -73,3 +73,19 @@ footer p {
  body {
     /* background-color: orange; */
  }
+
+ /* .first-li {
+    font-weight: bold;
+ } */
+
+ li:first-child {
+    font-weight: bold;
+ }
+
+ li:last-child {
+    font-style: italic;
+ }
+
+ a:link {
+    color: #1098ad;
+ }
